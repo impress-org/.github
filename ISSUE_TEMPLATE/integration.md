@@ -1,9 +1,9 @@
 ---
 name: Integration 🔌
 about: An integration should be developed or improved
-title: '[Existing functionality] should integrate with [some application]'
-labels: 'type: integration'
-assignees: ''
+title: "[Existing functionality] should integrate with [some application]"
+labels: "type: integration"
+assignees: ""
 ---
 
 ## User Story
@@ -12,15 +12,15 @@ As a [type of user], I want to see an integration with [some application] so tha
 
 ## Details
 
-Describe the integration. What does integrating with this application look like today? What goal would this integration help you to achieve?
+<!-- Describe the integration. What does integrating with this application look like today? What goal would this integration help you to achieve? -->
 
 ## Additional Context
 
-Add any other context about the integration here.
+<!-- Add any other context about the integration here. -->
 
 ## Acceptance Criteria
 
-These conditions must be true in order to close the issue:
+<!-- Define conditions that must be true in order to close the issue. -->
 
 -   [ ] Something happens when an action is taken.
 -   [ ] Something does not happen when an action is taken.

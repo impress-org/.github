@@ -8,15 +8,15 @@ assignees: ""
 
 ## Details
 
-Describe the chore. What problem does it solve?
+<!-- Describe the chore. What problem does it solve? -->
 
 ## Additional Context
 
-Add any other context about the chore here.
+<!-- Add any other context about the chore here. -->
 
 ## Acceptance Criteria
 
-These conditions must be true in order to close the issue:
+<!-- Define conditions that must be true in order to close the issue. -->
 
 -   [ ] Something happens when an action is taken.
 -   [ ] Something does not happen when an action is taken.

@@ -12,11 +12,11 @@ As a [type of user], I want [some goal] so that [some reason].
 
 ## Details
 
-Describe the buggy behavior including any warnings or errors.
+<!-- Describe the buggy behavior including any warnings or errors. -->
 
 ## Expected Behavior
 
-Describe what should have happened. Be specific.
+<!-- Describe what should have happened. Be specific. -->
 
 ## Steps to Reproduce
 
@@ -27,7 +27,7 @@ Describe what should have happened. Be specific.
 
 ## Visuals
 
-If applicable, add screenshots or video to help explain the problem.
+<!-- If applicable, add screenshots or video to help explain the problem. -->
 
 ## System Information
 
@@ -37,11 +37,11 @@ If applicable, add screenshots or video to help explain the problem.
 
 ## Additional Context
 
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
 
 ## Acceptance Criteria
 
-These conditions must be true in order to close the issue:
+<!-- Define conditions that must be true in order to close the issue. -->
 
 -   [ ] Something happens when an action is taken.
 -   [ ] Something does not happen when an action is taken.
