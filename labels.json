@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Epic",
+		"color": "5850EC",
+		"description": "A theme of work with sub-tasks is required; do not edit as ZenHub depends on this label"
+	},
+	{
+		"name": "is: blocked",
+		"color": "E02424",
+		"description": "Progress is prevented because of an unresolved dependency within the project"
+	},
+	{
+		"name": "is: holding",
+		"color": "E5E7EB",
+		"description": "Work was started but has since been paused due to circumstances beyond our control"
+	},
+	{
+		"name": "needs: changes",
+		"color": "FCE96A",
+		"description": "Changes have been requested before another review can occur"
+	},
+	{
+		"name": "needs: copy",
+		"color": "FCE96A",
+		"description": "Copy within the UI needs written or reviewed"
+	},
+	{
+		"name": "needs: design",
+		"color": "FCE96A",
+		"description": "Design direction is needed"
+	},
+	{
+		"name": "needs: web doc",
+		"color": "FCE96A",
+		"description": "User-facing functionality needs web documentation outside the product"
+	},
+	{
+		"name": "needs: inline doc",
+		"color": "FCE96A",
+		"description": "User-facing functionality needs inline documentation inside the product"
+	},
+	{
+		"name": "needs: testing",
+		"color": "FCE96A",
+		"description": "User-facing functionality needs tested by a human"
+	},
+
+	{
+		"name": "type: bug",
+		"color": "E02424",
+		"description": "Existing functionality is broken"
+	},
+	{
+		"name": "type: chore",
+		"color": "1C64F2",
+		"description": "General platform functionality that does not fall neatly into another category"
+	},
+	{
+		"name": "type: enhancement",
+		"color": "057A55",
+		"description": "An improvement to existing user-facing functionality"
+	},
+	{
+		"name": "type: new feature",
+		"color": "057A55",
+		"description": "New user-facing functionality is required"
+	},
+	{
+		"name": "type: integration",
+		"color": "057A55",
+		"description": "An integration with a third-party application"
+	}
+]
