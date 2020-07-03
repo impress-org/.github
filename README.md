@@ -18,3 +18,27 @@ The following issue templates are provided with unique fields catered to the tas
 ## Pull Request Template
 
 A pull request template is included to guide developers through the steps necessary to present their code for review.
+
+## Labels
+
+A `labels.json` file is included to streamline synchronization of GitHub labels across multiple repositories.
+
+1. Install [github-label-sync](https://github.com/Financial-Times/github-label-sync#command-line-interface)
+
+```
+npm install -g github-label-sync
+```
+
+2. Generate a [GitHub personal access token](https://github.com/settings/tokens)). Be sure to allow the "repo" scope.
+
+3. Perform a dry run to safely preview the result of synchronizing labels in the next step.
+
+```
+github-label-sync --access-token xxxxxx --dry-run impress-org/[repository-name]
+```
+
+4. Synchronize labels. This command will replace all labels in the designated repository with the labels defined in `labels.json`.
+
+```
+github-label-sync --access-token xxxxxx impress-org/[repository-name]
+```
