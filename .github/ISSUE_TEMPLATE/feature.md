@@ -2,7 +2,7 @@
 name: New Feature 💡
 about: New user-facing functionality should be added
 title: "[New functionality] should..."
-labels: "type: new feature"
+labels: "type/feature"
 assignees: ""
 ---
 
