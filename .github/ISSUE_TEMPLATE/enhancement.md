@@ -2,7 +2,7 @@
 name: Enhancement ✨
 about: Existing user-facing functionality should be improved
 title: "[Existing functionality] should..."
-labels: "type/enhancement"
+labels: "type: enhancement"
 assignees: ""
 ---
 

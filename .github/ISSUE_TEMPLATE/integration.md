@@ -2,7 +2,7 @@
 name: Integration 🔌
 about: An integration should be developed or improved
 title: "[Existing functionality] should integrate with [some application]"
-labels: "type/integration"
+labels: "type: integration"
 assignees: ""
 ---
 

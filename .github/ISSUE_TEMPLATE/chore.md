@@ -2,7 +2,7 @@
 name: Chore 🧹
 about: A general non-user-facing need should be addressed
 title: "[Something] should..."
-labels: "type/chore"
+labels: "type:chore"
 assignees: ""
 ---
 

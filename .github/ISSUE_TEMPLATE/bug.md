@@ -2,7 +2,7 @@
 name: Bug 🐛
 about: Broken functionality should be fixed
 title: "[Broken functionality] should..."
-labels: "type/bug"
+labels: "type: bug"
 assignees: ""
 ---
 
