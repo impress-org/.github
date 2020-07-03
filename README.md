@@ -23,13 +23,15 @@ A pull request template is included to guide developers through the steps necess
 
 A `labels.json` file is included to streamline synchronization of GitHub labels across multiple repositories.
 
+### How to Synchronize Labels
+
 1. Install [github-label-sync](https://github.com/Financial-Times/github-label-sync#command-line-interface)
 
 ```
 npm install -g github-label-sync
 ```
 
-2. Generate a [GitHub personal access token](https://github.com/settings/tokens)). Be sure to allow the "repo" scope.
+2. Generate a [GitHub personal access token](https://github.com/settings/tokens). Be sure to allow the "repo" scope.
 
 3. Perform a dry run to safely preview the result of synchronizing labels in the next step.
 
