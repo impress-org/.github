@@ -1,7 +1,7 @@
 ---
 name: Epic 🚩
 about: A theme of work should be broken down into subtasks
-title: "[Concise Theme of Work]"
+title: "Epic: [Concise Theme of Work]"
 labels: "Epic"
 assignees: ""
 ---
@@ -9,7 +9,7 @@ assignees: ""
 ## Pitch
 
 The problem, solution, and constraints are defined within this document:  
-[URL of Pitch Document]
+[Pitch Document](https://example.com/)
 
 ## Appetite
 
