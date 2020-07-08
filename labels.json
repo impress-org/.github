@@ -5,6 +5,11 @@
 		"description": "A theme of work with sub-tasks is required; do not edit as ZenHub depends on this label"
 	},
 	{
+		"name": "is: urgent",
+		"color": "E02424",
+		"description": "Broken functionality is significantly affecting live sites and requires immediate attention"
+	},
+	{
 		"name": "is: blocked",
 		"color": "E02424",
 		"description": "Progress is prevented because of an unresolved dependency within the project"
