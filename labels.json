@@ -15,7 +15,7 @@
 		"description": "Progress is prevented because of an unresolved dependency within the project"
 	},
 	{
-		"name": "is: holding",
+		"name": "is: on hold",
 		"color": "E5E7EB",
 		"description": "Work was started but has since been paused due to circumstances beyond our control"
 	},
