@@ -29,15 +29,17 @@ As a [type of user], I want [some goal] so that [some reason].
 
 <!-- If applicable, add screenshots or video to help explain the problem. -->
 
-## System Information
-
--   OS: [e.g. macOS, iOS, Windows]
--   Browser: [e.g. Chrome, Safari]
--   Give Version: [e.g. 0.10.0]
-
 ## Additional Context
 
 <!-- Add any other context about the problem here. -->
+
+## System Information
+
+<details><summary>Details</summary>
+
+<!-- Paste system information here. -->
+
+</details>
 
 ## Acceptance Criteria
 
