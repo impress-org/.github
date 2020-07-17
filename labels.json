@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "is: on hold",
-		"color": "E5E7EB",
+		"color": "E02424",
 		"description": "Work was started but has since been paused due to circumstances beyond our control"
 	},
 	{
@@ -44,12 +44,6 @@
 		"color": "FCE96A",
 		"description": "User-facing functionality needs inline documentation inside the product"
 	},
-	{
-		"name": "needs: testing",
-		"color": "FCE96A",
-		"description": "User-facing functionality needs tested by a human"
-	},
-
 	{
 		"name": "type: bug",
 		"color": "E02424",
