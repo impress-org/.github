@@ -45,6 +45,11 @@
 		"description": "User-facing functionality needs inline documentation inside the product"
 	},
 	{
+		"name": "needs: triage",
+		"color": "FCE96A",
+		"description": "An issue needs reprioritized or closed"
+	},
+	{
 		"name": "type: bug",
 		"color": "E02424",
 		"description": "Existing functionality is broken"
