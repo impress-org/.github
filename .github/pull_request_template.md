@@ -10,6 +10,10 @@ Resolves #
 
 <!-- Mention any existing functionality affected by this PR to help inform the reviewer(s). -->
 
+## Visuals
+
+<!-- Include screenshots or video to better communicate your changes. -->
+
 ## Pre-review Checklist
 
 <!-- Complete tasks prior to requesting a review. Delete tasks that are not relevant. -->
