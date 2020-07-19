@@ -25,11 +25,6 @@
 		"description": "Work was started but has since been paused due to circumstances beyond our control"
 	},
 	{
-		"name": "needs: copy",
-		"color": "FCE96A",
-		"description": "Copy within the UI needs written or reviewed"
-	},
-	{
 		"name": "needs: design",
 		"color": "FCE96A",
 		"description": "Design direction is needed"
