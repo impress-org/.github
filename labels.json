@@ -35,9 +35,9 @@
 		"description": "User-facing functionality needs web documentation outside the product"
 	},
 	{
-		"name": "needs: inline doc",
+		"name": "needs: contextual doc",
 		"color": "FCE96A",
-		"description": "User-facing functionality needs inline documentation inside the product"
+		"description": "User-facing functionality needs contextual documentation inside the product"
 	},
 	{
 		"name": "needs: triage",
