@@ -1,10 +1,5 @@
 [
 	{
-		"name": "Epic",
-		"color": "5850EC",
-		"description": "A theme of work with sub-tasks is required; do not edit as ZenHub depends on this label"
-	},
-	{
 		"name": "is: awaiting changes",
 		"color": "E02424",
 		"description": "Changes have been requested before another review can occur"
@@ -28,21 +23,6 @@
 		"name": "needs: design",
 		"color": "FCE96A",
 		"description": "Design direction is needed"
-	},
-	{
-		"name": "needs: web doc",
-		"color": "FCE96A",
-		"description": "User-facing functionality needs web documentation outside the product"
-	},
-	{
-		"name": "needs: contextual doc",
-		"color": "FCE96A",
-		"description": "User-facing functionality needs contextual documentation inside the product"
-	},
-	{
-		"name": "needs: triage",
-		"color": "FCE96A",
-		"description": "An issue needs reprioritized or closed"
 	},
 	{
 		"name": "type: bug",
