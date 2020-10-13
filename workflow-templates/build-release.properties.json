@@ -1,0 +1,5 @@
+{
+    "name": "Build Plugin Release",
+    "description": "Builds a plugin zip file upon release and attaches it to the release. ✨",
+    "iconName": "give-icon"
+}
