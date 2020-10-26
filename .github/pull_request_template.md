@@ -20,7 +20,7 @@ Resolves #
 
 -   [ ] Acceptance criteria satisfied and marked in related issue
 -   [ ] Relevant `@since` tags included in DocBlocks
--   [ ] Changelog updated
+-   [ ] Changes logged to the `Unreleased` section of `CHANGELOG.md`
 -   [ ] [Self Review](https://give.gitbook.io/development-manual/devops/github/code-reviews#self-review) of code and UX completed
 
 ## Testing Instructions
