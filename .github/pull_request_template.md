@@ -14,6 +14,10 @@ Resolves #
 
 <!-- Include screenshots or video to better communicate your changes. -->
 
+## Testing Instructions
+
+<!-- Help others test your PR as efficiently as possible. -->
+
 ## Pre-review Checklist
 
 <!-- Complete tasks prior to requesting a review. Add to this list, but do not remove the base items. -->
@@ -21,8 +25,6 @@ Resolves #
 -   [ ] Acceptance criteria satisfied and marked in related issue
 -   [ ] Relevant `@since` tags included in DocBlocks
 -   [ ] Changes logged to the `Unreleased` section of `CHANGELOG.md`
+-   [ ] Includes unit and/or end-to-end tests
 -   [ ] [Self Review](https://give.gitbook.io/development-manual/devops/github/code-reviews#self-review) of code and UX completed
 
-## Testing Instructions
-
-<!-- Help others test your PR as efficiently as possible. -->
