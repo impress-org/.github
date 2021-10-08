@@ -1,3 +1,5 @@
+<!-- Make sure to prefix the title with one of New:, Fix:, Changed:, or Security: -->
+
 <!-- Indicate the issue(s) resolved by this PR. -->
 
 Resolves #
@@ -23,8 +25,7 @@ Resolves #
 <!-- Complete tasks prior to requesting a review. Add to this list, but do not remove the base items. -->
 
 -   [ ] Acceptance criteria satisfied and marked in related issue
--   [ ] Relevant `@since` tags included in DocBlocks
--   [ ] Changes logged to the `Unreleased` section of `CHANGELOG.md`
+-   [ ] Relevant `@unreleased` tags included in DocBlocks
 -   [ ] Includes unit and/or end-to-end tests
 -   [ ] [Self Review](https://give.gitbook.io/development-manual/devops/github/code-reviews#self-review) of code and UX completed
 
