@@ -26,6 +26,7 @@ Resolves #
 
 -   [ ] Acceptance criteria satisfied and marked in related issue
 -   [ ] Relevant `@unreleased` tags included in DocBlocks
--   [ ] Includes unit and/or end-to-end tests
+-   [ ] Includes unit tests
+-   [ ] Reviewed by the designer (if follows a design)
 -   [ ] [Self Review](https://give.gitbook.io/development-manual/devops/github/code-reviews#self-review) of code and UX completed
 
